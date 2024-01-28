@@ -37,8 +37,16 @@ Decryption is achieved by applying the inverse operations in a systematic manner
 The Rubik's Cube Image Encryption/Decryption algorithm provides a novel approach to securing digital images. By integrating principles inspired by the Rubik's cube, the algorithm introduces a layer of complexity that enhances the security of image data. Users can leverage this algorithm for secure image transmission and storage, with the provided visualizations aiding in the analysis of encryption effects.
 
 ## Usage Example:
-Original image:
+[Original Image](Original_Image.png)
 
+[Grayscale Image](Grayscale_Image.png)
 
+[Encrypted Image](Encrypted_Image.png)
 
+[Decrypted Image](Decrypted_Image.png)
 
+> [!NOTE]
+> In this implementation Itermax = 1.
+
+> [!NOTE]
+> If you want to run this code first you have to upload this picture into your google colab: [Spider_man2.jpg](Spider_man2.jpg).
